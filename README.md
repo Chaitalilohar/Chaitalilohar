@@ -1,12 +1,12 @@
 ![MasterHead](https://camo.githubusercontent.com/59fc60c71a5bfaf918be50fa4029810272f7da7aff16df440d0f971bdbb5f6ce/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Chaitali Lohar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" /> </p>
 
 - 🌱 I’m currently learning **UI & UX Design**
 
-- 💬 Ask me about **React, Python and Php**
+- 💬 Ask me about **Java, React, Python and Php**
 
 - 📫 How to reach me **chaitalilohar4530@gmail.com**
 
